@@ -1,0 +1,7 @@
+template-file-path: WordPress_Single_Instance.template
+parameters:
+  DBUser: user1
+  DBPassword: glpat-G5fpy3xi2Hw1yxyzUzhx
+  DBRootPassword: glpat-G5fpy3xi2Hw1yxyzUzhx
+  KeyName: mujahed
+tags: {}
